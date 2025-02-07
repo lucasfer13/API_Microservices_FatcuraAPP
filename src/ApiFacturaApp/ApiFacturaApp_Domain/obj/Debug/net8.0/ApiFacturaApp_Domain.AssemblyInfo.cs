@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiFacturaApp_Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+897e1a8533550b2bb793fd63047513627d856cfb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e5fce6e69c7fd2a5e0eb4fba717976e142e642c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiFacturaApp_Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiFacturaApp_Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
